@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaditam=self.webpackChunkaditam||[]).push([[625],{625:(a,e,t)=>{a.exports=t.p+"static/media/about.20cf422bb0ee1253c5f8.md"}}]);

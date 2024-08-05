@@ -1,6 +1,8 @@
 # Intro
 
-Worked as a Digital Insights & Big Data Analytics Intern at [Hitachi Vantara](https://www.hitachivantara.com/en-us/home.html). I am an Information Technology graduate from [NMIET](https://www.nmiet.edu.in/), Pune. Technology excites me and I am always in awe of the change it drives in the world. Certain skills that I have worked with include Data Structures and Algorithms (C++), Web Development (NodeJs, MySQL) & Data Analytics (with Tableau). And what I might lack in skills I make up for with my determination to learn. Outside of tech, I'm an avid Table Tennis enthusiast and a drawing artist. I am excited to bring my fresh perspective and innovative ideas to a dynamic company that values growth and embraces change.
+Currently spearheading my own venture, Aditya 360°, where I channel my expertise as a Google Business Specialist to elevate businesses' online presence with cutting-edge 360° Virtual Tours and strategic SEO. Previously, I honed my skills as a Digital Insights & Big Data Analytics Intern at Hitachi Vantara, where I delved deep into the world of data. As an Information Technology graduate from NMIET, Pune, I thrive on the excitement technology brings and the transformative impact it has on our world.
+
+I’ve built a solid foundation in Data Structures and Algorithms (C++), Web Development (NodeJs, MySQL), and Data Analytics (Tableau). What I may lack in experience, I more than make up for with relentless curiosity and a determination to learn. When I'm not immersed in tech, you’ll find me dominating the Table Tennis table or expressing my creativity through drawing. I'm eager to bring my fresh perspective and innovative ideas to a forward-thinking company that values growth and embraces change.
 
 # Some history
 
@@ -20,9 +22,9 @@ Worked as a Digital Insights & Big Data Analytics Intern at [Hitachi Vantara](ht
 
 - At the start of my final year, I secured four job offers and was primarily engaged in working at a company.
 
-- In 2023, amid the IT industry recession, I graduated with first-class distinction, showcasing my semester projects, final year project, and publishing my debut academic paper.
+- In 2023, I graduated with first-class distinction, showcasing my semester projects, final year project, and publishing my debut academic paper.
 
-- Currently, I find myself in a situation where my company has laid off several freshers, including me. I am now actively searching for a new job - a gateway back into the techy world that I am passionate about.
+- In 2024, I founded Aditya 360°, a platform empowering businesses to dominate local search with expert Google Business Profile management, captivating 360° virtual tours, and result-driven local SEO.
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
@@ -60,4 +62,3 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Treating every individual with genuine kindness and respect.
 - Staying curious.
 - Continually improving.
-- No one would reject my resume.
